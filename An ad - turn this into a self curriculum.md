@@ -10,8 +10,7 @@ Setting up and becoming familiar with a Python environment on my Mac AND develop
 * I cannot get the hang of Pandas commands. It seems there is a command for everything; but I can never remember what is what.
 * I have selected Python 3; but I wonder if there is another language I should consider
 
-
-# I live in the Elkridge, MD area and I would be most interested in-person help; but am willing to work virtually.
+< !-- comment --/>  I live in the Elkridge, MD area and I would be most interested in-person help; but am willing to work virtually.
 
 I **could** be interested in forming a partnership with a self-motivated coder to set up a company where we could monetize our efforts; but my goals to start with are a personal to become a better coder. I want to learn how to “fish”; and I can get there by looking at your coding examples.
 
