@@ -9,7 +9,7 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Integrate coding notes, design notes for progects and Knowledge base.doc into one document on github
 * [Go through the Plone todo material](http://tutorialtodoapp.readthedocs.org/en/latest/index.html)
 * Set up my techinical task list on github (?)
-* Get better at [markdown language] (https://guides.github.com/features/mastering-markdown/)
+* Get better at [markdown language](https://guides.github.com/features/mastering-markdown/)
 * A Coursera (free) machine learning [course](https://www.coursera.org/learn/machine-learning)
 * Check out the selenium package/framework
 * Learn about pipenv and the python environment
