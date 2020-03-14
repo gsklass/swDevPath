@@ -14,4 +14,4 @@ I am a former C/C++ embedded/DSP programmer who took a 10 year leave into upper 
 
 I **could** be interested in forming a partnership with a self-motivated coder to set up a company where we could monetize our efforts; but my goals to start with are a personal to become a better coder. I want to learn how to “fish”; and I can get there by looking at your coding examples.
 
-[//]: # (I am very flexible on work hours (and place - a good deal of remote help is fine).  Pay is negotiable (give me your pitch). )
+[//]: # (I am very flexible on work hours /(and place - a good deal of remote help is fine/).  Pay is negotiable (give me your pitch). )
