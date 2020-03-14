@@ -8,4 +8,4 @@ My path to becoming a software developer
 * Get ideas from GitHub - and contribute (learn how to contribute from a video)
 * Develop a website to show off work (perhaps start link to linked in) - develop online presence
 
-[Music}(https://musicforprogramming.net/?eighteen) to code to
+[Music](https://musicforprogramming.net/?eighteen) to code to
