@@ -8,5 +8,6 @@ My path to becoming a software developer
 * Get ideas from GitHub - and contribute (learn how to contribute from a video)
 * Develop a website to show off work (perhaps start link to linked in) - develop online presence
 
-[Music](https://musicforprogramming.net/?eighteen) to code to
-[Outsourcing](https://freeup.net/wp-content/uploads/2017/12/10-Most-Common-Mistakes-of-Outsourcing-Version-2.0.pdf) thoughts
+Loosly associated ideas:
+* [Music](https://musicforprogramming.net/?eighteen) to code to
+* [Outsourcing](https://freeup.net/wp-content/uploads/2017/12/10-Most-Common-Mistakes-of-Outsourcing-Version-2.0.pdf) thoughts
