@@ -13,3 +13,4 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * A Coursera (free) machine learning [course](https://www.coursera.org/learn/machine-learning)
 * Check out the selenium package/framework
 * Learn about pipenv and the python environment
+* A good [regex resource](https://regex101.com/) 
