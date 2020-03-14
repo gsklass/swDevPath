@@ -9,3 +9,4 @@ My path to becoming a software developer
 * Develop a website to show off work (perhaps start link to linked in) - develop online presence
 
 [Music](https://musicforprogramming.net/?eighteen) to code to
+[Outsourcing](https://freeup.net/wp-content/uploads/2017/12/10-Most-Common-Mistakes-of-Outsourcing-Version-2.0.pdf) thoughts
