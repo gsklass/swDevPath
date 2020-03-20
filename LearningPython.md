@@ -20,3 +20,4 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Learn and document linux command line - organize it in useful ways
 * Catalog Medium articles
 * Learn NumPy stack including Pandas and pivot tables
+* ... and more ML stuff [from medium](https://towardsdatascience.com/how-to-build-an-integration-between-automl-and-mlflow-6d66d4bdc4d1) 
