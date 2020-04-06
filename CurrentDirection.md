@@ -5,9 +5,9 @@ Current direction:
   * [First Steps With Python” Guide](https://realpython.com/python-first-steps/)
   * [Learn Python the Methodical Way](https://realpython.com/learn-python-the-methodical-way/)
   * [“Python Fundamentals” – Tutorials & Articles](https://realpython.com/tutorials/basics/)
-  * [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/}
+  * [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
   * [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
-  * [Python’s Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/}
+  * [Python’s Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
   * [Python Virtual Environments](https://realpython.com/python-virtual-environments-a-primer/)
 * Check out more [machine learning courses](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 *
