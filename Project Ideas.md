@@ -7,4 +7,5 @@ ben set up.
 * I have a stock market (actually ETF) picker; that works well; but the program needs SO much more help. I could use advice on the best way forward. (I am interested in adding backtesting, confidence analysis, alternate evaluation.)
 * A trike route suggester based on new miles (from [wanderer](https://wandrer.earth/dashboard) ) or other critera (such as maximizing trails)
 * I have MANY fintech ideas (a lot of personal finance) ideas that I want to code.
+* Some [APIs](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3) to inspire new code
 * SO MUCH MORE..
