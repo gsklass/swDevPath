@@ -15,3 +15,4 @@ Current direction:
   * learn about different environmenta
   * develop a good work flow
   * use visual studio code (fluently)
+  * write up a requirements document for a new and improved gdrive
