@@ -8,7 +8,7 @@ ben set up.
 * A trike route suggester based on new miles (from [wanderer](https://wandrer.earth/dashboard) ) or other critera (such as maximizing trails)
 * I have MANY fintech ideas (a lot of personal finance) ideas that I want to code.
 * Some [APIs](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3) to inspire new code
-* 
+* An [Instagram code idea](https://realpython.com/instagram-bot-python-instapy/) to learn Selenium
 *
 Non coding (specfic) ideas:
 * Learn slack as a way to engage fellow nubie developers
