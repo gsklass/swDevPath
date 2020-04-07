@@ -13,4 +13,5 @@ ben set up.
 Non coding (specfic) ideas:
 * Learn slack as a way to engage fellow nubie developers
 * From RealPython Pod cast: investigate pathlib
+* Do a [blog](https://medium.com/better-programming/5-reasons-why-you-should-write-technical-blog-posts-as-developer-30cd349ece60)
 
