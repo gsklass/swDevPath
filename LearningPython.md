@@ -2,6 +2,7 @@
 to-do list for my quest to become a python guru (and refresh my developer guru status)
 ## List of todo items:
 * This web site has so many good tutorials on python - [check this out](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
+* A [curated list of frameworks and modules](https://github.com/vinta/awesome-python)
 * Monitor python courses - [check this out](https://medium.com/better-programming/my-favorite-free-courses-to-learn-python-in-depth-95eb9508d042)
 * Check out [this](https://towardsdatascience.com/two-pandas-functions-you-must-know-for-easy-data-manipulation-in-python-2f6d0a2ef3e5)
 * [Continue numpy stack and machine learning cources](http://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/5857390#overview)
