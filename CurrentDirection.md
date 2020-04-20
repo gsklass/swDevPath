@@ -2,7 +2,7 @@ Current direction:
 * [Udemy course on numpy stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/8874838#overview)
 * gdrive program
 
-* Check out more [machine learning courses](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
+* 
 *
 * I have a real need to: 
   * learn about different environment - working with Ben Rolfe of RealPython
