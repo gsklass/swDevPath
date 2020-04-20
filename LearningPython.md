@@ -24,9 +24,9 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Check out the selenium package/framework
 * Learn about pipenv and the python environmen - [A resourse](https://medium.com/better-programming/improve-your-python-package-management-with-pipenv-28093c007955)
 * A good [regex resource](https://regex101.com/) 
-* Compare/constrast tmux vs VSCode
+* ~Compare/constrast tmux vs VSCode~
 * Learn SQL
-* ID good cheatsheets for a host of topics: pandas, SQL Regex, md language, github
+* ID good cheatsheets for a host of topics: pandas, SQL, Regex, md language, ~github, VSCode~
 * Learn and document linux command line - organize it in useful ways
 * Catalog [Medium](https://medium.com/) articles
 * Learn NumPy stack including Pandas and pivot tables
