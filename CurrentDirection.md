@@ -3,6 +3,9 @@
   * get active on [Slack](https://app.slack.com/client/TGVJELXRT/D01233TN77C/thread/CGY1X9MKM-1586635818.496300)
   * develop a good work flow
   * use visual studio code (fluently) - I am walking through this [tutuorial](https://code.visualstudio.com/docs/python/environments)
-  * write up a requirements document for a new and improved gdrive - this is NEXT
-  * [Udemy course on numpy stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/8874838#overview)
-  * gdrive program
+  * [Udemy course on numpy stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/8874838#overview). 
+  
+  
+
+* NEXT:
+  *write up a requirements document for a new and improved gdrive - this is NEXT
