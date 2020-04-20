@@ -1,6 +1,6 @@
 # learningPython
 to-do list for my quest to become a python guru (and refresh my developer guru status)
-## List of todo items:
+## List of (long term) todo items:
 * This web site has so many good tutorials on python - [check this out](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 * A [curated list of frameworks and modules](https://github.com/vinta/awesome-python)
 * Monitor python courses - [check this out](https://medium.com/better-programming/my-favorite-free-courses-to-learn-python-in-depth-95eb9508d042)
@@ -30,4 +30,5 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Learn and document linux command line - organize it in useful ways
 * Catalog [Medium](https://medium.com/) articles
 * Learn NumPy stack including Pandas and pivot tables
+* Check out more [machine learning courses](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 * ... and more ML stuff [from medium](https://towardsdatascience.com/how-to-build-an-integration-between-automl-and-mlflow-6d66d4bdc4d1) 
