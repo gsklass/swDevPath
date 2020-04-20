@@ -1,4 +1,4 @@
-# learningPython
+# Becoming a SW Dev (a pythonic approach
 to-do list for my quest to become a python guru (and refresh my developer guru status)
 ## List of (long term) todo items:
 * This web site has so many good tutorials on python - [check this out](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
@@ -27,8 +27,9 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * ~Compare/constrast tmux vs VSCode~
 * Learn SQL
 * ID good cheatsheets for a host of topics: pandas, SQL, Regex, md language, ~github, VSCode~
-* Learn and document linux command line - organize it in useful ways
+* ~Learn and document linux command line - organize it in useful ways~ see .zshrc file (on Macbook)
 * Catalog [Medium](https://medium.com/) articles
 * Learn NumPy stack including Pandas and pivot tables
 * Check out more [machine learning courses](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 * ... and more ML stuff [from medium](https://towardsdatascience.com/how-to-build-an-integration-between-automl-and-mlflow-6d66d4bdc4d1) 
+* Move efforts to AWS ?
