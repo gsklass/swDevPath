@@ -1,4 +1,4 @@
-# Becoming a SW Dev (a pythonic approach
+# Becoming a SW Dev (a pythonic approach)
 to-do list for my quest to become a python guru (and refresh my developer guru status)
 ## List of (long term) todo items:
 * This web site has so many good tutorials on python - [check this out](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
