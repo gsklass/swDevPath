@@ -8,4 +8,4 @@
   
 
 * NEXT:
-  *write up a requirements document for a new and improved gdrive - this is NEXT
+  * Write up a requirements document for a new and improved gdrive - this is NEXT
