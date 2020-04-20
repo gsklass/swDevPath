@@ -6,7 +6,14 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Monitor python courses - [check this out](https://medium.com/better-programming/my-favorite-free-courses-to-learn-python-in-depth-95eb9508d042)
 * Check out [this](https://towardsdatascience.com/two-pandas-functions-you-must-know-for-easy-data-manipulation-in-python-2f6d0a2ef3e5)
 * [Continue numpy stack and machine learning cources](http://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/5857390#overview)
-* Do a [Real Python course](https://realpython.com/start-here/)
+* Do a [Real Python course](https://realpython.com/start-here/) AND [Real python subscription](https://realpython.com/switching-to-python/)
+  * [First Steps With Python” Guide](https://realpython.com/python-first-steps/)
+  * [Learn Python the Methodical Way](https://realpython.com/learn-python-the-methodical-way/)
+  * [“Python Fundamentals” – Tutorials & Articles](https://realpython.com/tutorials/basics/)
+  * [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+  * [VIM and Python – A Match Made in Heaven](https://realpython.com/vim-and-python-a-match-made-in-heaven/)
+  * [Python’s Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
+  * [Python Virtual Environments](https://realpython.com/python-virtual-environments-a-primer/)
 * Learn github/git better  - [perhaps](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 * Learn how to build a website on github - perhaps even start a blog, and/or connect the Letter Of Instruction to the site
 * Integrate coding notes, design notes for progects and Knowledge base.doc into one document on github
