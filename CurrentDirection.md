@@ -1,5 +1,6 @@
 * At the moment: 
   * learn about different virtual environment - working with Ben Rolfe of RealPython
+    * Setup a script that creates git, venv and the rest ....
   * get active on [Slack](https://app.slack.com/client/TGVJELXRT/D01233TN77C/thread/CGY1X9MKM-1586635818.496300)
   * develop a good work flow
   * use visual studio code (fluently) - I am walking through this [tutuorial](https://code.visualstudio.com/docs/python/environments)
