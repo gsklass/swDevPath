@@ -8,7 +8,8 @@
   
 
 * NEXT:
-  * Write up a requirements document for a new and improved gdrive
+  * Write up a requirements document for a NAS to gdrive prgram
+  * Explore pytest (for unit testing
 * DONE:
   * learn about different virtual environment - working with Ben Rolfe of RealPython
     * Setup a script that creates git, venv and the rest ....
