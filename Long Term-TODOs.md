@@ -7,7 +7,7 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Monitor python courses - [check this out](https://medium.com/better-programming/my-favorite-free-courses-to-learn-python-in-depth-95eb9508d042)
 * Check out [this](https://towardsdatascience.com/two-pandas-functions-you-must-know-for-easy-data-manipulation-in-python-2f6d0a2ef3e5)
 * [Continue numpy stack and machine learning cources](http://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/5857390#overview)
-* Do a [Real Python courses](https://realpython.com/start-here/)[like](https://realpython.com/switching-to-python/)
+* Do a [Real Python course](https://realpython.com/start-here/)[like](https://realpython.com/switching-to-python/)
   * [First Steps With Python” Guide](https://realpython.com/python-first-steps/)
   * [Learn Python the Methodical Way](https://realpython.com/learn-python-the-methodical-way/)
   * [“Python Fundamentals” – Tutorials & Articles](https://realpython.com/tutorials/basics/)
@@ -33,4 +33,4 @@ to-do list for my quest to become a python guru (and refresh my developer guru s
 * Learn NumPy stack including Pandas and pivot tables
 * Check out more [machine learning courses](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 * ... and more ML stuff [from medium](https://towardsdatascience.com/how-to-build-an-integration-between-automl-and-mlflow-6d66d4bdc4d1) 
-* Move efforts to AWS ?
+* Move efforts to AWS ? ... and Cloud9?
