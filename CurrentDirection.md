@@ -8,8 +8,8 @@
   
 
 * NEXT:
-  * Write up a requirements document for a NAS to gdrive prgram
   * Explore pytest (for unit testing)
+  * learn about Google Photos API
     
     
 * DONE:
