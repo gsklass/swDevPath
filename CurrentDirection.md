@@ -10,6 +10,7 @@
   * learn about Google Photos API
   * Explore [Slack](https://app.slack.com/client/TGVJELXRT/D01233TN77C/thread/CGY1X9MKM-1586635818.496300)
   * [Udemy course on numpy stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/8874838#overview). 
+  * Take this course on [web-scrapping](https://realpython.com/python-web-scraping-practical-introduction/)
     
     
 * DONE:
