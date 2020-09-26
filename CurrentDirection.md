@@ -1,15 +1,11 @@
 
 * At the moment: 
-  * Work the NAS to Google Drive transfer process - although this might be OBE with (rclone.org)[https://rclone.org/downloads/]
-  * use visual studio code (fluently) - I am walking through this [tutuorial](https://code.visualstudio.com/docs/python/environments); but check out AWS's Cloud9
+  * Gradually, learn how to download github repositiories to use. Scrap learning python. 
   
-  
-
 * NEXT:
-  * Explore pytest (for unit testing)
-  * learn about Google Photos API
+  * Figure out ways to use existing tools to automate various tasks.
+  * Learn what's available on GitHub
   * Explore [Slack](https://app.slack.com/client/TGVJELXRT/D01233TN77C/thread/CGY1X9MKM-1586635818.496300)
-  * [Udemy course on numpy stack](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/learn/lecture/8874838#overview). 
   * Take this course on [web-scrapping](https://realpython.com/python-web-scraping-practical-introduction/)
     
     
