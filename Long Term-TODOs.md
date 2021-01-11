@@ -1,7 +1,6 @@
-# Becoming a SW Dev (a pythonic approach)
+# Becoming a SW Dev (a pythonic approach) - AN OLD GOAL
 to-do list for my quest to become a python guru (and refresh my developer guru status)
 ## List of (long term) todo items:
-* Check out PyCon 2020's [Youtube](https://www.youtube.com/c/PyCon2020)
 * This web site has so many good tutorials on python - [check this out](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 * A [curated list of frameworks and modules](https://github.com/vinta/awesome-python)
 * Monitor python courses - [check this out](https://medium.com/better-programming/my-favorite-free-courses-to-learn-python-in-depth-95eb9508d042)
